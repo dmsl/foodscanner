@@ -9,6 +9,13 @@
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-answers-1.2.2_8c61c514dd017486c744595971c60b892ccbcfb8.jar" />
     </item>
     <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\haha-1.3_a2167695e5da03b7c11b37b50e0b07ef811a35ad.jar" />
+    </item>
+    <item
         jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -21,6 +28,13 @@
         revision="23.0.2"
         sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-recyclerview-v7-23.1.0_53fdf4f21e1f27469eb1d0e3f3bf34cfd8a59aa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.3_c8a514ff6fc8f48297efafff8f5bbdbec48210fe.jar" />
     </item>
     <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
@@ -37,6 +51,41 @@
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\commons-compress-1.5_ee187e74612b1fa6444a8bf3171a1f5a7e0483b2.jar" />
     </item>
     <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\guava-18.0_6cd8d41ddb7145e5913d9e9e78f1cce776604b65.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\me.dm7.barcodescanner-zxing-1.8.4_54cc39e7df3400e7dd4d93bed6eb49d0177c59ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-crashlytics-2.4.0_f5f35a240dd4a175fa52887d3e200c86eae1b525.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.2\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\jsr305-2.0.2_f19a69f0f8423596ddd99d123b5ca71c4f61174f.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-appcompat-v7-23.1.0_eb683378bf6dac7491a3c19a85bf4b2ecc291312.jar" />
+    </item>
+    <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -44,11 +93,39 @@
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-cardview-v7-23.1.0_10e46055cb69c90c68a702fc9cf15385204617e0.jar" />
     </item>
     <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\lucene-core-5.3.0-mobile-2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b358703a9dcf4a0417652a3c217b73b5ed306298">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\lucene-core-5.3.0-mobile-2_3d4a37e5ff180fb8c45f43ad3b727b41da66aec0.jar" />
+    </item>
+    <item
         jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\org.tukaani\xz\1.2\bfc66dda280a18ab341b5023248925265c00394c\xz-1.2.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="bfc66dda280a18ab341b5023248925265c00394c">
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\xz-1.2_4b478b3f925b6eb6c6cf7a8251ae168946805a05.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-support-v4-23.1.1_01335eeff248b6fdde2485f2f49885239934a9f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\leakcanary-analyzer-1.3.1_1322ddc67603b000c5d9711c771a5c144064251e.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\YouTubeAndroidPlayerApi_2154b087f4ee2312510fe4d59e6f2821d4a9ab7a.jar" />
     </item>
     <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
@@ -93,6 +170,13 @@
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\core-3.2.1_ee8c824ffe331e1b14f96ffed08d68069909b553.jar" />
     </item>
     <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\library-2.4.0_d7f101a51392e9e49acc886a3f4c7102a4748baa.jar" />
+    </item>
+    <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -100,11 +184,32 @@
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.squareup.leakcanary-leakcanary-android-1.3.1_a507275c94a74675c3fa2cef89d8279357703800.jar" />
     </item>
     <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\io.fabric.sdk.android-fabric-1.3.4_79263c646d2ce881c3e489d1a58f6d0f0cab45bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\leakcanary-watcher-1.3.1_05f0bfff2c2e8d65b6283db1723b275b3ce070d7.jar" />
+    </item>
+    <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.3\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-beta-1.1.3_56963cfb6e457c6078256adb34fb00cc3304b95a.jar" />
+    </item>
+    <item
+        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\lucene-suggest-5.3.0-mobile-2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6fea8c40a5c2efb10a277c7dd963e0c68004a7ab">
+        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\lucene-suggest-5.3.0-mobile-2_3b1653b52635e269ea3a3861dba3faf4f87e848c.jar" />
     </item>
     <item
         jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.3\jars\classes.jar"
@@ -126,111 +231,6 @@
         revision="23.0.2"
         sha1="82eda228c92c1aab3c0c8626497f13baf249cdb4">
         <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\library-1.2.2_ef436ec3c323857fc03ce9e9ad43186e2e37a697.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\haha-1.3_a2167695e5da03b7c11b37b50e0b07ef811a35ad.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.3\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.3_c8a514ff6fc8f48297efafff8f5bbdbec48210fe.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\guava-18.0_6cd8d41ddb7145e5913d9e9e78f1cce776604b65.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\me.dm7.barcodescanner-zxing-1.8.4_54cc39e7df3400e7dd4d93bed6eb49d0177c59ba.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.crashlytics.sdk.android-crashlytics-2.4.0_f5f35a240dd4a175fa52887d3e200c86eae1b525.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.2\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.2.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\jsr305-2.0.2_f19a69f0f8423596ddd99d123b5ca71c4f61174f.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-appcompat-v7-23.1.0_eb683378bf6dac7491a3c19a85bf4b2ecc291312.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\lucene-core-5.3.0-mobile-2.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b358703a9dcf4a0417652a3c217b73b5ed306298">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\lucene-core-5.3.0-mobile-2_3d4a37e5ff180fb8c45f43ad3b727b41da66aec0.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\com.android.support-support-v4-23.1.1_01335eeff248b6fdde2485f2f49885239934a9f9.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\leakcanary-analyzer-1.3.1_1322ddc67603b000c5d9711c771a5c144064251e.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\YouTubeAndroidPlayerApi_2154b087f4ee2312510fe4d59e6f2821d4a9ab7a.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\library-2.4.0_d7f101a51392e9e49acc886a3f4c7102a4748baa.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\io.fabric.sdk.android-fabric-1.3.4_79263c646d2ce881c3e489d1a58f6d0f0cab45bd.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6904771474c058abfc5912c13d12b02754712165">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\leakcanary-watcher-1.3.1_05f0bfff2c2e8d65b6283db1723b275b3ce070d7.jar" />
-    </item>
-    <item
-        jar="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\libs\lucene-suggest-5.3.0-mobile-2.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6fea8c40a5c2efb10a277c7dd963e0c68004a7ab">
-        <dex dex="C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\pre-dexed\aV5\debug\lucene-suggest-5.3.0-mobile-2_3b1653b52635e269ea3a3861dba3faf4f87e848c.jar" />
     </item>
 
 </items>

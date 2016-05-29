@@ -427,7 +427,7 @@
     <string name="choose_formats">Choose Formats</string>
     <string name="choose_language">Pick a language for text to speech.</string>
     <string name="click_image_below">Once you are a member click on the image below.</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">de2f6dda-6f8a-4900-a0e2-859651cd3872</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">9d2d2040-5c6e-41f8-82fc-e7c4dffa05d5</string>
     <string name="config_share_file_auth" translatable="false">com.ds.FoodScanner.fileprovider</string>
     <string name="config_share_file_dir" translatable="false">original_images/</string>
     <string name="content_description_fairy">The helpful text fairy</string>

@@ -383,7 +383,7 @@ public class DocumentActivity extends BaseDocumentActivitiy implements LoaderMan
                             StringTokenizer s = new StringTokenizer(ingr.get(i));
                             while (s.hasMoreTokens()) {
                                 String str = s.nextToken();
-                                temp = db.test(DocumentActivity.this, "SELECT nameOfAllergen FROM ALLERGENS WHERE nameOfAllergen like '%" + "Tuna" + "%'");
+                                temp = db.test(DocumentActivity.this, "SELECT nameOfAllergen FROM ALLERGENS WHERE nameOfAllergen like '%" + str + "%'");
                                 Log.e(">>>>>>>>>>>>>>>>>>>>>>>", str.length() + ", " + str + "," + temp);
 
                                 if (temp.size() > 0 && !hs.contains(str) && str.length() > 2) {
