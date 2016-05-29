@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

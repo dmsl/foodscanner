@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    }
+]

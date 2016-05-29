@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="0dip"
+        android:background="#ffffff">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:text="  NUTRITIONAL FACTS"
+            android:textSize="16dip"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            />
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:background="#ffffff">
+        </ListView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:text="  ALLERGENS"
+            android:textSize="16dip"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            />
+
+        <ListView
+            android:id="@+id/listView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:background="#ffffff">
+        </ListView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:text="  CHEMICALS"
+            android:textSize="16dip"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimary"
+            />
+
+        <ListView
+            android:id="@+id/listView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:background="#ffffff">
+        </ListView>
+
+    </LinearLayout>
+
+</ScrollView>

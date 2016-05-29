@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior" tools:showIn="@layout/content_floating_button"
+    tools:context=".MainActivity"
+    android:id="@+id/clickableLayout"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/adds_add_list_icon"
+        android:layout_above="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView android:text="No items" android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:layout_marginBottom="258dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/textView" />
+
+    <TextView android:text="Tap the + button to\n add an item!" android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginBottom="210dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="20dp"/>
+</RelativeLayout>

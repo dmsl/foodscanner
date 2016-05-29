@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-suggest-5.3.0-mobile-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/libs/lucene-suggest-5.3.0-mobile-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

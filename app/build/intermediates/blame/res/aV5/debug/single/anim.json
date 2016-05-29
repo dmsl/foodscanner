@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_from_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\jump_from_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\layout_animation.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_from_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\jump_from_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_to_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\jump_to_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\highlight.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\highlight.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_from_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\jump_from_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\highlight.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_to_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\jump_to_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\jump_to_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\jump_to_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\layout_animation.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\layout_animation.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hyperspace_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\scale_down.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\anim\\fab_slide_in_from_right.xml"
+    }
+]

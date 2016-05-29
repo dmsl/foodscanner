@@ -1,0 +1,55 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+apply plugin: 'com.android.library'
+
+task ndkBuild(type: Exec,description: 'run ndk-build') {
+    if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+        workingDir 'jni'
+        commandLine 'ndk-build.cmd', '-j' , Runtime.runtime.availableProcessors()
+
+    } else {
+        workingDir 'jni'
+        commandLine "$ndkDir/ndk-build", '-j', Runtime.runtime.availableProcessors()
+    }
+}
+tasks.withType(JavaCompile) {
+    compileTask -> compileTask.dependsOn(ndkBuild)
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jni.srcDirs = []
+            jniLibs.srcDir 'libs'
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+dependencies {
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}

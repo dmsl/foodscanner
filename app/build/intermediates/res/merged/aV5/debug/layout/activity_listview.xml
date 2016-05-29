@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:text="TextView"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:paddingTop="7dip"
+        android:paddingLeft="15dip"/>
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:text="TextView"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:paddingTop="7dip"
+        android:paddingRight="15dip"/>
+
+</LinearLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<TextView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/label"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:padding="10dip"-->
+    <!--android:textSize="16dip"-->
+    <!--android:textStyle="bold"-->
+    <!--android:focusable="false">-->
+    <!--</TextView>-->
+    <!-- -->
+    <!--</LinearLayout>-->

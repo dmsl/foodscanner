@@ -1,0 +1,50 @@
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/obj/local/x86/objs/hocr2pdf/lib/crop.o: \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/crop.cc \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/string.h \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h \
+ C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/iostream \
+ C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/Image.hh \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/inttypes.h \
+ C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/math.h \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/ImageIterator.hh \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/../codecs/Codecs.hh \
+ C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/../codecs/../lib/Image.hh \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/Colorspace.hh \
+ C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/crop.hh
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/string.h:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h:
+
+C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/iostream:
+
+C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/Image.hh:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/inttypes.h:
+
+C:/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/math.h:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/ImageIterator.hh:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/../codecs/Codecs.hh:
+
+C:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/../codecs/../lib/Image.hh:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/Colorspace.hh:
+
+C:/Users/tsets_000/Desktop/textfairy/app/src/main/jni/../../../../hocr2pdf/src/lib/crop.hh:

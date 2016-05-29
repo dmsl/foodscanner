@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\tsets_000\Desktop\foodscanner\app\src\main\shaders"/></dataSet><dataSet config="aV5"><source path="C:\Users\tsets_000\Desktop\foodscanner\app\src\aV5\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\tsets_000\Desktop\foodscanner\app\src\debug\shaders"/></dataSet><dataSet config="aV5Debug"><source path="C:\Users\tsets_000\Desktop\foodscanner\app\src\aV5Debug\shaders"/></dataSet></merger>

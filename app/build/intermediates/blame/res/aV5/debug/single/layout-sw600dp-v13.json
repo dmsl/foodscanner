@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]

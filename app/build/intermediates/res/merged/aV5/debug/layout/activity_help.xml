@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:fillViewport="true"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textAppearance="@android:style/TextAppearance.Large"
+                android:text="@string/ocr_tip_heading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="@string/ocr_tip_1"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                style="@style/ocr_tip_style_check" />
+
+            <TextView
+                style="@style/ocr_tip_style_check"
+                android:text="@string/ocr_tip_2"
+                android:layout_width="337dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                style="@style/ocr_tip_style_check"
+                android:text="@string/ocr_tip_3"
+                android:layout_width="353dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                style="@style/ocr_tip_style_check"
+                android:text="@string/ocr_tip_4"
+                android:layout_width="330dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:textAppearance="@android:style/TextAppearance.Large"
+                android:text="@string/additional_tips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                style="@style/ocr_tip_style_check"
+                android:text="@string/ocr_tip_5"
+                android:layout_width="341dp"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</ScrollView>
+

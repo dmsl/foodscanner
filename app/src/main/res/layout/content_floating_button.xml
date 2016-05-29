@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <include
+            layout="@layout/content_main"
+            android:id="@+id/empty_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.ds.FoodScanner.FancyGridView
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="2dp"
+            android:choiceMode="none"
+            android:drawSelectorOnTop="false"
+            android:horizontalSpacing="@dimen/grid_spacing"
+            android:listSelector="@android:color/transparent"
+            android:scrollingCache="true"
+            android:verticalSpacing="@dimen/grid_spacing" />
+    </FrameLayout>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/menu_labels_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom|right"
+        android:paddingBottom="20dp"
+        android:paddingRight="20dp"
+
+        fab:menu_labels_textColor="@color/colorAccent"
+        fab:menu_labels_colorNormal="#ffffff"
+        fab:menu_labels_colorPressed="#ffffff"
+
+        fab:menu_buttonSpacing="4dp"
+        fab:menu_labels_ellipsize="end"
+        fab:menu_labels_singleLine="true"
+        fab:menu_backgroundColor="#ccffffff"
+        fab:menu_labels_position="left"
+        fab:menu_labels_cornerRadius="4dp"
+        fab:menu_colorNormal="@color/colorAccent"
+        fab:menu_colorPressed="@color/pink_pressed"
+        fab:menu_shadowXOffset="0dp"
+        fab:menu_shadowYOffset="1dp"
+        fab:menu_animationDelayPerItem="20" fab:menu_fab_label="Close"
+        fab:menu_labels_showAnimation="@anim/jump_from_down"
+        fab:menu_labels_hideAnimation="@anim/jump_to_down">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/menu_fabBarcode"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_barcode"
+            android:layout_width="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="Scan Barcode"
+            fab:fab_showAnimation="@anim/jump_from_down"
+            fab:fab_hideAnimation="@anim/jump_to_down"
+            fab:fab_shadowXOffset="0dp"
+            fab:fab_shadowYOffset="2dp"
+            fab:fab_colorNormal="@color/colorAccent"
+            fab:fab_colorPressed="@color/pink_pressed"
+            fab:menu_labels_textColor="#FFFFFF"
+            />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/menu_fab1"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_icon_image_128"
+            android:layout_width="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="Existing image"
+            fab:fab_showAnimation="@anim/jump_from_down"
+            fab:fab_hideAnimation="@anim/jump_to_down"
+            fab:fab_shadowXOffset="0dp"
+            fab:fab_shadowYOffset="2dp"
+            fab:fab_colorNormal="@color/colorAccent"
+            fab:fab_colorPressed="@color/pink_pressed"
+
+            fab:menu_labels_textColor="#FFFFFF"
+            />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/menu_fab2"
+
+            android:src="@drawable/ic_camera_96"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="New image"
+            fab:fab_shadowXOffset="0dp"
+            fab:fab_shadowYOffset="2dp"
+            fab:fab_showAnimation="@anim/jump_from_down"
+            fab:fab_hideAnimation="@anim/jump_to_down"
+            fab:fab_colorNormal="@color/colorAccent"
+            fab:fab_colorPressed="@color/pink_pressed"
+            />
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

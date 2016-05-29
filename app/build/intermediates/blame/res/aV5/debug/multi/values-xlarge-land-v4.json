@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 63,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 63,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 63,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

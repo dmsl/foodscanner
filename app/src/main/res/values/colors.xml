@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1e88e5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pink_pressed">#ec407a</color>
+    <!--<color name="Light_Green_500">#8bc34a</color>-->
+    <!--<color name="Light_Green_600">#7cb342</color>-->
+
+    <color name="Light_Green_500">#00e676</color>
+    <color name="Light_Green_600">#00c853</color>
+    <!--<color name="colorPrimary">#2196f3</color>-->
+    <!--<color name="colorPrimaryDark">#1e88e5</color>-->
+    <!--<color name="colorAccent">#FF5252</color>-->
+
+    <color name="dark_grey">#ff333333</color>
+    <color name="grey2">#555555</color>
+    <color name="grey3">#777777</color>
+    <color name="grey5">#AAAAAA</color>
+    <color name="grey6">#DDDDDD</color>
+	<color name="progress_color">#ff33b5e5</color>  
+	<color name="circle_indicator_background">#66000000</color>  
+	
+	<color name="drop_shadow_start">#FFF3F3F3</color>
+    <color name="drop_shadow_end">#00000000</color>
+    <color name="start_activity_buttons_background">@android:color/transparent</color>
+
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="white">#ffffff</color>
+
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+		
+</resources>

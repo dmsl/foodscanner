@@ -1,0 +1,11 @@
+.settings/
+.DS_Store
+**/bin/
+**/gen/
+**/target/
+**/build/
+local.properties
+ViewPager3D-ViewPager3D.iml
+build.xml
+.classpath
+project.properties

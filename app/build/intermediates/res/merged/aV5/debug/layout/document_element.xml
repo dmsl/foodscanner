@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ds.FoodScanner.CheckableGridElement xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <!--<RelativeLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/dropshadow"-->
+        <!--android:paddingBottom="@dimen/dropshadow_padding_bottom"-->
+        <!--android:paddingLeft="@dimen/dropshadow_padding_left"-->
+        <!--android:paddingRight="@dimen/dropshadow_padding_right"-->
+        <!--android:paddingTop="@dimen/dropshadow_padding_top"-->
+        <!-->-->
+
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/title"&ndash;&gt;-->
+            <!--&lt;!&ndash;style="@style/DocumentCaptionText"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_gravity="center"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentBottom="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:gravity="center_vertical|center_horizontal"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:maxLines="1" />&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/thumb"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:contentDescription="@string/empty"/>&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/date"&ndash;&gt;-->
+            <!--&lt;!&ndash;style="@style/DocumentDateText"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:padding="4dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentBottom="false"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_toLeftOf="@+id/page_number"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:gravity="center_vertical"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:maxLines="1" />&ndash;&gt;-->
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/page_number"&ndash;&gt;-->
+            <!--&lt;!&ndash;style="@style/DocumentDateText"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="29dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:padding="4dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentBottom="false"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentRight="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:gravity="center_vertical"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:maxLines="1" />&ndash;&gt;-->
+
+    <!--</RelativeLayout>-->
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:paddingBottom="9px"
+        android:paddingLeft="0px"
+        android:paddingRight="9px"
+        android:paddingTop="4px"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginTop="-12dp"
+        card_view:cardElevation="7dp"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardBackgroundColor="@android:color/white"
+        card_view:cardCornerRadius="14dp">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/DocumentCaptionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxLines="1" />
+
+        <ImageView
+            android:id="@+id/thumb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/empty"/>
+
+        <TextView
+            android:id="@+id/date"
+            style="@style/DocumentDateText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+
+            android:gravity="center"
+            android:maxLines="1" />
+        <!--<TextView-->
+            <!--android:id="@+id/page_number"-->
+            <!--style="@style/DocumentDateText"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="29dp"-->
+            <!--android:padding="4dp"-->
+
+            <!--android:layout_marginLeft="120dp"-->
+            <!--android:maxLines="1"-->
+            <!--android:gravity="right" />-->
+    </android.support.v7.widget.CardView>
+
+</com.ds.FoodScanner.CheckableGridElement>

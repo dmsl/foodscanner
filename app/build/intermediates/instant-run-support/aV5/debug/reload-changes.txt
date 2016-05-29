@@ -1,0 +1,2 @@
+CHANGED,C:\Users\tsets_000\Desktop\textfairy\app\build\intermediates\transforms\instantRun\aV5\debug\folders\4000\5\enhanced\com\ds\FoodScanner\MySpellCheckerActivity$override.class
+CHANGED,C:\Users\tsets_000\Desktop\textfairy\app\build\intermediates\transforms\instantRun\aV5\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
