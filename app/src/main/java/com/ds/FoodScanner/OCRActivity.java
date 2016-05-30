@@ -1,12 +1,12 @@
 /*
-* Food Scanner: A free and open Food Analyzer with superb accuracy!
+* FoodScanner: A free and open Food Analyzer (nutritional facts, allergens and chemicals)
 *
-* Food Scanner is a first-of-a-kind food analyzer offering valuable
-* information about foods such as nutritional facts, allergens and
-* chemicals, using ordinary smartphones.
+* FoodScanner is a first-of-a-kind food analyzer offering valuable 
+* information such as nutritional facts, allergens and 
+* chemicals, about foods using ordinary smartphones.
 *
 * Authors: D. Stefanidis
-*
+* 
 * Supervisor: Demetrios Zeinalipour-Yazti
 *
 * URL: http://foodscanner.cs.ucy.ac.cy
@@ -34,7 +34,6 @@
 * DEALINGS IN THE SOFTWARE.
 *
 */
-
 package com.ds.FoodScanner;
 
 import com.googlecode.leptonica.android.Pix;

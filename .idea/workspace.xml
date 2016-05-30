@@ -68,44 +68,99 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/vtd_xml_2_11.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/xz_1_2.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/zxing_1_8_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer$NoopViewServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer$UncloseableOuputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer$ViewServerWorker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer$WindowListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ViewServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/armeabi-v7a/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/armeabi-v7a/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/armeabi/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/armeabi/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/x86/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/aV5/debug/x86/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/armeabi-v7a/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/armeabi-v7a/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/armeabi/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/armeabi/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/x86/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/aV5/debug/folders/2000/1f/main/lib/x86/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi-v7a/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi-v7a/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/x86/libhocr2pdf.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/libs/x86/libhocr2pdfjni.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/.cproject" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Fernberger01.box" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Fernberger01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Fernberger01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Scan114.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Scan114.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Scan666.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/Scan666.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/fernberger.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/font.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/kart.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/out.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/real.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/recttest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/scan112.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/scan114.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/Codecs.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/Codecs.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/jinclude.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/jpeg.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/jpeg.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/pdf.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/pdf.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/png.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/png.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/transupp.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/codecs/transupp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/frontends/hocr2pdfTest.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/Colorspace.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/Colorspace.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/Image.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/Image.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/ImageIterator.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/ImageIterator2.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/crop.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/crop.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/entities.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/entities.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/hocr.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/hocr.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/rotate.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/rotate.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/scale.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/lib/scale.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/ArgumentList.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/ArgumentList.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/Compiler.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/Encodings.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/Endianess.hh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/src/utility/template/ArgumentList.tcc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/test.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hocr2pdf/textfairy_hocr_202.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileAV5DebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$CameraResult.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$CameraResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$DeleteDocumentTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$DeleteDocumentTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$SaveDocumentTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy$SaveDocumentTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BaseDocumentActivitiy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement$AnimationType.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement$AnimationType.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/CheckableGridElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ChooseLanguageDialog$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ChooseLanguageDialog$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ChooseLanguageDialog.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ChooseLanguageDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DataBaseHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DataBaseHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/BaseScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/BaseScannerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FullScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/BarcodeScanner/FullScannerActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentAdapter$DocumentViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentAdapter$DocumentViewHolder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider$Columns.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider$Columns.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider$DBHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider$DBHelper.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/DocumentContentProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/FancyGridView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/FancyGridView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ImageLoadAsyncTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ImageLoadAsyncTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ImageSource.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ImageSource.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/MyApplication.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/MyApplication.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/MySpellChecker.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/MySpellChecker.class" />
@@ -116,15 +171,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRActivity$ProgressActivityHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRActivity$ProgressActivityHandler.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRImageView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/OCRImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/PixLoadStatus.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/PixLoadStatus.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ProgressDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ProgressDialogFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ResultActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/ResultActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/TestAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/TestAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/BlurHighLightView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/BlurHighLightView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/CropData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/CropData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/ImageBlurredDialog.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/ImageBlurredDialog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$AppIconClickListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$AppIconClickListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$IconAnimationRunnable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$IconAnimationRunnable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$LifeCycleAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity$LifeCycleAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/MonitoredActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/PreparePixForCropTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/cropimage/PreparePixForCropTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/AboutActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/AboutActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/DownloadBroadCastReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/DownloadBroadCastReceiver.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/HelpActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/HelpActivity.class" />
@@ -146,7 +203,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageAdapter$ViewHolder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageInstallService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/FoodScanner/help/OCRLanguageInstallService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$1$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentImageFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentImageFragment$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentImageFragment$LoadImageAsyncTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/aV5/debug/com/ds/documentview/DocumentImageFragment$LoadImageAsyncTask.class" />
@@ -178,16 +240,71 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/aV5/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/aV5/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-aV5-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-aV5-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-aV5-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-aV5-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/fabric/res/aV5/debug/values/com_crashlytics_build_id.xml" afterPath="$PROJECT_DIR$/app/build/generated/fabric/res/aV5/debug/values/com_crashlytics_build_id.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/aV5/debug/crashlytics-build.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/aV5/debug/crashlytics-build.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/aV5/debug/single/drawable-xxxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAV5DebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAV5DebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAV5DebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAV5DebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/aV5/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/aV5/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/All_DB.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/All_DB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/BaseScannerActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/BaseScannerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/CameraSelectorDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/FormatSelectorDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/FullScannerActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BarcodeScanner/FullScannerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BaseDocumentActivitiy.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/BaseDocumentActivitiy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/CheckableGridElement.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/CheckableGridElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ChooseLanguageDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ChooseLanguageDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DataBaseHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DataBaseHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentContentProvider.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentContentProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/FancyGridView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/FancyGridView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ImageLoadAsyncTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ImageLoadAsyncTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ImageSource.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ImageSource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MyApplication.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MyApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MySpellChecker.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/MySpellChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/OCRActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/OCRActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/OCRImageView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/OCRImageView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ProgressDialogFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ProgressDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ResultActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/ResultActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/TestAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/TestAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/BlurHighLightView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/BlurHighLightView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/HighLightView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/HighLightView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/ImageBlurredDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/ImageBlurredDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/MonitoredActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/MonitoredActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/PreparePixForCropTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/cropimage/PreparePixForCropTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/AboutActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/AboutActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/DownloadBroadCastReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/DownloadBroadCastReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/HelpActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/HelpActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/HintDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/HintDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/LicenseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/LicenseActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageInstallService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/help/OCRLanguageInstallService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentImageFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentImageFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentPagerFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentPagerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentTextFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentTextFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/OCRResultDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/OCRResultDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/SimpleDocumentAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/SimpleDocumentAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/TableOfContentsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/TableOfContentsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/TopDialogFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/TopDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/util/ListUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/util/ListUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/util/PreferencesUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/util/PreferencesUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ds/util/ResourceUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ds/util/ResourceUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/fatsecret/platform/FatSecretAPI.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/fatsecret/platform/FatSecretAPI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/googlecode/tesseract/android/OCR.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/googlecode/tesseract/android/OCR.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/jni/Android.mk" afterPath="$PROJECT_DIR$/app/src/main/jni/Android.mk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tess-two/FoodScanner-tess-two.iml" afterPath="$PROJECT_DIR$/tess-two/FoodScanner-tess-two.iml" />
     </list>
     <ignored path="foodscanner.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -227,12 +344,12 @@
     <favorites_list name="foodscanner" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="DocumentActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27419356">
-              <caret line="378" column="72" selection-start-line="378" selection-start-column="72" selection-end-line="378" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.20788531">
+              <caret line="351" column="35" selection-start-line="351" selection-start-column="35" selection-end-line="351" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -5939,6 +6056,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/fatsecret/platform/Base64.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/googlecode/tesseract/android/OCR.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/jni/Android.mk" />
       </list>
     </option>
   </component>
@@ -5973,8 +6091,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -5983,126 +6099,12 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoodScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foodscanner" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="documentview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -6394,7 +6396,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -6441,19 +6443,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42114696">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ds/FoodScanner/DocumentContentProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0967742">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9809#0" expanded="true" />
+            <element signature="e#0#9831#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -6490,9 +6485,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9390681">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#6821#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -6570,9 +6563,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9390681">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2664#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -6580,9 +6571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9390681">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#8181#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -6639,9 +6628,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9390681">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2447#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -6810,10 +6797,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/jni/Android.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.640873">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ds/documentview/DocumentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27419356">
-          <caret line="378" column="72" selection-start-line="378" selection-start-column="72" selection-end-line="378" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.20788531">
+          <caret line="351" column="35" selection-start-line="351" selection-start-column="35" selection-end-line="351" selection-end-column="35" />
           <folding />
         </state>
       </provider>

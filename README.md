@@ -1,6 +1,6 @@
 # FoodScanner
 
-A free and open Food Analyzer with superb accuracy!
+A free and open Food Analyzer (nutritional facts, allergens and chemicals)
 
 ## Preface 
 Food Scanner is a first-of-a-kind food analyzer offering valuable 

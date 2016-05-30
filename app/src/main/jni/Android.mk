@@ -17,6 +17,5 @@ LIBPNG_PATH := $(LOCAL_PATH)/../../../../libpng-android/jni
 
 include $(LIBJPEG_PATH)/Android.mk
 #include $(LIBPNG_PATH)/Android.mk
-include $(HOCR2PDF_PATH)/Android.mk
-include $(HOCR2PDF_JNI_PATH)/Android.mk
+
 include $(IMAGE_PROCESSING_JNI_PATH)/Android.mk
