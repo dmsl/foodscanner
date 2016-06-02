@@ -4,10 +4,6 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_download_file.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\check.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\check.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_merge.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_merge.png"
     },
@@ -16,88 +12,12 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_gallery.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_upload_file.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_upload_file.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_save.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_save.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_preferences.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_preferences.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_restart.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_restart.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_mode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_merge.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_merge.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_gallery.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_gallery.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_pdf.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_pdf.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_camera.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_camera.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_content.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_content.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_mode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_download_file.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_download_file.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_rotate_right.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_right.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_cancel.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\check.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\check.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_gallery.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_gallery.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_merge.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_merge.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_camera.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_camera.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_restart.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_restart.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_restart.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_restart.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_cancel.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_upload_file.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_upload_file.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\check.png",
@@ -108,14 +28,6 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_left.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_preferences.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_preferences.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_rotate_right.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_right.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_content.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_content.png"
     },
@@ -124,44 +36,16 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_pdf.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_mode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_cancel.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_save.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_save.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_content.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_content.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_mode.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_mode.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_rotate_left.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_left.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_upload_file.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_upload_file.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_rotate_left.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_left.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_upload_file.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_upload_file.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_download_file.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_download_file.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_save.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_save.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_cancel.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_preferences.png",
@@ -174,9 +58,5 @@
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_rotate_right.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-ldpi\\ic_action_rotate_right.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-ldpi-v4\\ic_action_pdf.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-ldpi\\ic_action_pdf.png"
     }
 ]

@@ -8,1140 +8,16 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_rating.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_rating.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cross.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\cross.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check_mark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\check_mark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pdf.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_bottom_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_transparent_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_left.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_left.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_stacked_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_edit_512.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_edit_512.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_3.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_3.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_stop.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stop.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_camera_96.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_96.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete_512.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_512.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_focused_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_focused_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\__leak_canary_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\drawable-mdpi\\__leak_canary_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_focused_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_gallery.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_gallery.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_about.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\info_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\info_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_language.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_language.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_camera.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_camera.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_tip_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_tip_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_transparent_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_download.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_barcode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cross.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\cross.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_right.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_right.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_3.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_3.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_heart.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_hardkey_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cross.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\cross.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_about.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_merge.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_merge.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_focused_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\__leak_canary_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\drawable-mdpi\\__leak_canary_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_bg_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_feedback.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_feedback.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_bottom_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_disabled_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_hardkey_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_mail.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_mail.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_merge.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_merge.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_play.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_focused_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_text_to_speech.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_text_to_speech.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_icon_image_128.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_icon_image_128.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_beta_test.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_beta_test.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_whats_new.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_whats_new.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_normal_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_normal_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_drawer.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_save.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_edit_512.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_edit_512.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_text_to_speech.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_text_to_speech.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_edit_512.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_edit_512.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_bottom_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_gallery.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_gallery.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_text_to_speech.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_text_to_speech.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_tips_light2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_tips_light2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_primary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_cancel.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_download.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_rating.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_rating.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_texture_tile_fairylightdarkactionbar.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_fairylightdarkactionbar.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_feedback.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_feedback.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\drawer_shadow.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_3.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_3.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_bottom_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_left.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_left.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_tips_light2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_tips_light2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_right.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_right.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_icon_image_128.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_icon_image_128.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_beta_test.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_beta_test.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_stop.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stop.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_secondary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check_mark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\check_mark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_barcode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\check.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_camera.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_camera.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cross.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\cross.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_tip_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_tip_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_beta_test.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_beta_test.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_hardkey_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pdf.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_stop.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stop.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_download.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\list_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_secondary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_feedback.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_feedback.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_normal_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_default_normal_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf_light.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pdf_light.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_alert_warning.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_alert_warning.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mode.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_mail.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_mail.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_whats_new.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_whats_new.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_tips_light2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_tips_light2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_texture_tile_fairylightdarkactionbar.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_fairylightdarkactionbar.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_top_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check_mark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\check_mark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_merge.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_merge.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_primary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\list_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_heart.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_cancel.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf_light.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pdf_light.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\info_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\info_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_bottom_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_2.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_2.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_camera_96.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_96.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\fab_add.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_focused_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_default_focused_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_disabled_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_secondary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_play.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\fab_add.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_transparent_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete_512.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_512.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_primary_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\list_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_about.png",
@@ -1152,124 +28,96 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_default_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_fairylightdarkactionbar.9.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_tip_icon.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_tip_icon.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_texture_tile_fairylightdarkactionbar.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_fairylightdarkactionbar.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\info_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\info_icon.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_hardkey_panel_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share_dark.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_top_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_focused_fairylightdarkactionbar.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_language.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_language.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_bottom_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_default_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_disabled_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_focused_fairylightdarkactionbar.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_stacked_solid_fairylightdarkactionbar.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_camera_96.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_96.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_transparent_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_bottom_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_normal_holo_dark.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_normal_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_default_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_focused_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\list_focused_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_pressed_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_pressed_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_language.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_language.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_tip_icon.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_tip_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_edit_512.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_edit_512.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share_dark.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share_dark.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_save.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_drawer.png",
@@ -1280,68 +128,92 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_fairylightdarkactionbar.9.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_play.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_save.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_stop.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stop.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_alert_warning.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_alert_warning.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_camera_96.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_96.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\fab_add.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_barcode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_solid_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_delete_512.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_512.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\list_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_mail.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_mail.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_whats_new.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_whats_new.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_focused_holo_dark.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_focused_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_bg_fairylightdarkactionbar.9.png",
@@ -1352,100 +224,116 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\menu_dropdown_panel_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_texture_tile_fairylightdarkactionbar.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_fairylightdarkactionbar.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf_light.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pdf_light.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_default_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_fairylightdarkactionbar.9.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_bg_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_tips_light2.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_tips_light2.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_primary_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_feedback.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_feedback.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_drawer.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_gallery.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_gallery.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_2.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_2.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_merge.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_merge.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_mode.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mode.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\info_icon.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\info_icon.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_heart.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_fairylightdarkactionbar.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\drawer_shadow.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_camera.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_camera.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\__leak_canary_icon.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.3.1\\res\\drawable-mdpi\\__leak_canary_icon.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_heart.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_save.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_stacked_solid_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_rating.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences_dark.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_pdf.png",
@@ -1456,56 +344,100 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_left.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_left.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_mode.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mode.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_cab_done_pressed_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_download.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\check.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_bullet_point_3.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_bullet_point_3.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_pressed_holo_dark.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ab_bottom_solid_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_camera.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_camera.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_icon_image_128.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_icon_image_128.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_gallery.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_gallery.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\check.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_right.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_right.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_icon_image_128.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_icon_image_128.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_disabled_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_fairylightdarkactionbar.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_feedback.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_feedback.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_content_copy_dark.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_copy_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\progress_secondary_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_fairylightdarkactionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_beta_test.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_beta_test.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_feedback.png",
@@ -1516,56 +448,76 @@
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\cab_background_top_fairylightdarkactionbar.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_rating.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_rating.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_whats_new.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\ic_whats_new.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_focused_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_fairylightdarkactionbar.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check_mark.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\check_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_barcode.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_cancel.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
     },
     {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_focused_holo_dark.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\check.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_unselected_pressed_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_fairylightdarkactionbar.9.png"
+    },
+    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_alert_warning.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_alert_warning.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_mail.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_mail.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_rotate_right.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_rotate_right.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_share.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\ic_action_preferences_dark.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-mdpi\\ic_action_preferences_dark.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\tab_selected_focused_fairylightdarkactionbar.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_fairylightdarkactionbar.9.png"
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\spinner_ab_pressed_fairylightdarkactionbar.9.png",
+        "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_fairylightdarkactionbar.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\btn_default_normal_holo_dark.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-mdpi\\btn_default_normal_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",

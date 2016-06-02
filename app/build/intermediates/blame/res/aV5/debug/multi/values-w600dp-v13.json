@@ -1,48 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 63,
-                    "endOffset": 114
-                },
-                "from": {
-                    "file": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 290,
-                        "endColumn": 63,
-                        "endOffset": 349
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 119,
-                    "endColumn": 54,
-                    "endOffset": 169
-                },
-                "from": {
-                    "file": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 354,
-                        "endColumn": 54,
-                        "endOffset": 404
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
         "map": [
             {
@@ -74,49 +31,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 354,
-                        "endColumn": 54,
-                        "endOffset": 404
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 63,
-                    "endOffset": 114
-                },
-                "from": {
-                    "file": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 290,
-                        "endColumn": 63,
-                        "endOffset": 349
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 119,
-                    "endColumn": 54,
-                    "endOffset": 169
-                },
-                "from": {
-                    "file": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\dropshadow.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-nodpi\\dropshadow.9.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\dropshadow.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-nodpi\\dropshadow.9.png"
     },
     {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\speech_bubble.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-nodpi\\speech_bubble.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\dropshadow.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\textfairy\\app\\src\\main\\res\\drawable-nodpi\\dropshadow.9.png"
-    },
-    {
         "merged": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\speech_bubble.9.png",
         "source": "C:\\Users\\tsets_000\\Desktop\\foodscanner\\app\\src\\main\\res\\drawable-nodpi\\speech_bubble.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\build\\intermediates\\res\\merged\\aV5\\debug\\drawable-nodpi-v4\\speech_bubble.9.png",
-        "source": "C:\\Users\\tsets_000\\Desktop\\FoodScanner\\app\\src\\main\\res\\drawable-nodpi\\speech_bubble.9.png"
     }
 ]

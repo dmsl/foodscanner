@@ -1,10 +1,10 @@
 # FoodScanner
 
-A free and open Food Analyzer (nutritional facts, allergens and chemicals)
+A free and open Food Analyzer (nutrition facts, allergens and chemicals)
 
 ## Preface 
 Food Scanner is a first-of-a-kind food analyzer offering valuable 
-information such as nutritional facts, allergens and 
+information such as nutrition facts, allergens and 
 chemicals, about foods  using ordinary smartphones.
 	 
 URL: http://foodscanner.cs.ucy.ac.cy
@@ -49,7 +49,7 @@ Short description of the contents included in this release.
 
 ### Android
 Current Leader: Dimosthenis Stefanidis. 
-Try: Coming Soon in play store
+Try: https://play.google.com/store/apps/details?id=com.ds.FoodScanner
 
 Project Leader: Demetris Zeinalipour
 

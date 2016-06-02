@@ -307,7 +307,7 @@ jint Java_com_googlecode_tesseract_android_OCR_nativeAnalyseLayout(JNIEnv *env, 
 	return (jint) 0;
 }
 
-jobject Java_com_ds_image_1processing_Blur_nativeBlurDetect(JNIEnv *env, jobject thiz, jlong nativePix) {
+jobject Java_com_dmsl_image_1processing_Blur_nativeBlurDetect(JNIEnv *env, jobject thiz, jlong nativePix) {
 	Pix *pixOrg = (PIX *) nativePix;
 	PixBlurDetect blurDetector(true);
 	l_float32 blurValue;
@@ -319,7 +319,7 @@ jobject Java_com_ds_image_1processing_Blur_nativeBlurDetect(JNIEnv *env, jobject
 	//pixRenderBox(pixBlended,maxBlurLoc,2,L_SET_PIXELS);
 	log("pix = %p, blur=%f, box=(%i,%i - %i,%i)processing time %f\n",pixBlended, blurValue,x,y,w,h,stopTimerNested(timer));
 	//create result
-	jclass cls = env->FindClass("com/ds/image_processing/BlurDetectionResult");
+	jclass cls = env->FindClass("com/dmsl/image_processing/BlurDetectionResult");
 	jmethodID constructor = env->GetMethodID(cls, "<init>", "(JDJ)V");
 	return env->NewObject(cls, constructor, (jlong)pixBlended, (jdouble)blurValue, (jlong)maxBlurLoc);
 }

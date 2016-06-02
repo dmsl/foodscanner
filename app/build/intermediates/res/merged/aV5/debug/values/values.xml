@@ -406,7 +406,7 @@
     <string name="additional_tips">Additional tips</string>
     <string name="apache_lucene_summary">Apache Lucene is a high-performance, full-featured text search engine library written entirely in Java.</string>
     <string name="apache_lucene_title"><a href="https://lucene.apache.org/core/">Apache Lucene</a></string>
-    <string name="app_name">Food Scanner</string>
+    <string name="app_name">FoodScanner</string>
     <string name="app_options_title">Change your settings</string>
     <string name="app_version">Version %s</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -427,8 +427,8 @@
     <string name="choose_formats">Choose Formats</string>
     <string name="choose_language">Pick a language for text to speech.</string>
     <string name="click_image_below">Once you are a member click on the image below.</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">a80f046f-5c75-4303-8177-eb3761bd10dc</string>
-    <string name="config_share_file_auth" translatable="false">com.ds.FoodScanner.fileprovider</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">54567b1b-b68c-4d87-a134-e901ddc869e3</string>
+    <string name="config_share_file_auth" translatable="false">com.dmsl.FoodScanner.fileprovider</string>
     <string name="config_share_file_dir" translatable="false">original_images/</string>
     <string name="content_description_fairy">The helpful text fairy</string>
     <string name="continue_editing">Continue</string>

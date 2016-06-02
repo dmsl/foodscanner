@@ -41,9 +41,9 @@ import com.googlecode.leptonica.android.Pix;
 import com.googlecode.leptonica.android.Pixa;
 import com.googlecode.leptonica.android.WriteFile;
 import com.googlecode.tesseract.android.TessBaseAPI.PageSegMode;
-import com.ds.FoodScanner.R;
-import com.ds.FoodScanner.cropimage.MonitoredActivity;
-import com.ds.util.Util;
+import com.dmsl.FoodScanner.R;
+import com.dmsl.FoodScanner.cropimage.MonitoredActivity;
+import com.dmsl.util.Util;
 
 import android.content.Context;
 import android.graphics.Bitmap;

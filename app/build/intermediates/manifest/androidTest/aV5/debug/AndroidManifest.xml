@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ds.FoodScanner.test">
+    package="com.dmsl.FoodScanner.test">
 
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.ds.FoodScanner"
+                     android:targetPackage="com.dmsl.FoodScanner"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.ds.FoodScanner"/>
+                     android:label="Tests for com.dmsl.FoodScanner"/>
 </manifest>

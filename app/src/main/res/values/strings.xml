@@ -43,7 +43,7 @@
 
     <string name="download_failed">Downloading of %1$s failed!</string>
     <string name="language_downloaded">%1$s language data downloaded</string>
-    <string name="app_name">Food Scanner</string>
+    <string name="app_name">FoodScanner</string>
     <string name="tips">Tips</string>
     <string name="ocr_language_delete">Delete</string>
     <string name="download_title">Language data for %s</string>

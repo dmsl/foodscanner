@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ds.FoodScanner"
+    package="com.dmsl.FoodScanner"
     android:installLocation="auto"
     android:versionCode="140"
     android:versionName="1.0.0" >
@@ -16,7 +16,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:name="com.ds.FoodScanner.MyApplication"
+        android:name="com.dmsl.FoodScanner.MyApplication"
         android:allowBackup="true"
         android:allowClearUserData="true"
         android:hardwareAccelerated="true"
@@ -37,12 +37,12 @@
                 android:resource="@xml/filepaths" />
         </provider>
         <provider
-            android:name="com.ds.FoodScanner.DocumentContentProvider"
-            android:authorities="com.ds.FoodScanner"
+            android:name="com.dmsl.FoodScanner.DocumentContentProvider"
+            android:authorities="com.dmsl.FoodScanner"
             android:exported="false" />
         <!-- ///////////////////////////// MAIN /////////////////////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.MainActivity"
+            android:name="com.dmsl.FoodScanner.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme.NoActionBar" >
@@ -55,64 +55,64 @@
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- ////////////////////// OCRActivity ///////////////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.OCRActivity"
+            android:name="com.dmsl.FoodScanner.OCRActivity"
             android:launchMode="singleTop" />
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- /////////////////////// DocumentActivity /////////////////////////////// -->
         <activity
-            android:name="com.ds.documentview.DocumentActivity"
+            android:name="com.dmsl.documentview.DocumentActivity"
             android:configChanges="keyboardHidden|keyboard"
             android:launchMode="singleTop"
             android:windowSoftInputMode="adjustResize" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.MainActivity" />
+                android:value="com.dmsl.FoodScanner.MainActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- /////////////////////////// HelpActivity /////////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.help.HelpActivity"
+            android:name="com.dmsl.FoodScanner.help.HelpActivity"
             android:label="@string/tips" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.MainActivity" />
+                android:value="com.dmsl.FoodScanner.MainActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- //////////////////////// OCRLanguageActivity /////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.help.OCRLanguageActivity"
+            android:name="com.dmsl.FoodScanner.help.OCRLanguageActivity"
             android:label="@string/ocr_language_title" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.MainActivity" />
+                android:value="com.dmsl.FoodScanner.MainActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- ////////////////////// TableOfContentsActivity ///////////////////////// -->
         <activity
-            android:name="com.ds.documentview.TableOfContentsActivity"
+            android:name="com.dmsl.documentview.TableOfContentsActivity"
             android:label="@string/toc_title" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.documentview.DocumentActivity" />
+                android:value="com.dmsl.documentview.DocumentActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- /////////////////////////// InstallActivity //////////////////////////// -->
         <activity
-            android:name="com.ds.install.InstallActivity"
+            android:name="com.dmsl.install.InstallActivity"
             android:label="@string/toc_title"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- /////////////////////////// CropImageActivity ////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.cropimage.CropImageActivity"
+            android:name="com.dmsl.FoodScanner.cropimage.CropImageActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label="@string/crop_title"
             android:uiOptions="splitActionBarWhenNarrow" />
         <!-- //////////////////////////////////////////////////////////////////////// -->
 
-        <service android:name="com.ds.FoodScanner.help.OCRLanguageInstallService" />
+        <service android:name="com.dmsl.FoodScanner.help.OCRLanguageInstallService" />
 
-        <receiver android:name="com.ds.FoodScanner.help.DownloadBroadCastReceiver" >
+        <receiver android:name="com.dmsl.FoodScanner.help.DownloadBroadCastReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
             </intent-filter>
@@ -121,25 +121,25 @@
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- ////////////////////////// LicenseActivity ///////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.help.LicenseActivity"
+            android:name="com.dmsl.FoodScanner.help.LicenseActivity"
             android:label="@string/pref_title_license" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.help.AboutActivity" />
+                android:value="com.dmsl.FoodScanner.help.AboutActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- /////////////////////////// AboutActivity ////////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.help.AboutActivity"
+            android:name="com.dmsl.FoodScanner.help.AboutActivity"
             android:label="@string/about" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.MainActivity" />
+                android:value="com.dmsl.FoodScanner.MainActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- ///////////////////////// FullScannerActivity ////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.BarcodeScanner.FullScannerActivity"
+            android:name="com.dmsl.FoodScanner.BarcodeScanner.FullScannerActivity"
             android:label="Barcode Scanner"
             android:theme="@style/AppOverlayTheme"
             android:uiOptions="splitActionBarWhenNarrow" >
@@ -150,11 +150,11 @@
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <!-- ///////////////////////// ResultActivity ////////////////////////// -->
         <activity
-            android:name="com.ds.FoodScanner.ResultActivity"
+            android:name="com.dmsl.FoodScanner.ResultActivity"
             android:label="@string/Results" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ds.FoodScanner.MainActivity" />
+                android:value="com.dmsl.FoodScanner.MainActivity" />
         </activity>
         <!-- //////////////////////////////////////////////////////////////////////// -->
         <meta-data

@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:2:1-164:12
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:2:1-163:12
 	package
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:3:5-33
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:3:5-35
 	android:versionName
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:6:5-32
 		INJECTED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:16:22-62
 application
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:18:5-162:19
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:18:5-161:19
 MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.0] C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
@@ -133,16 +133,16 @@ ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.x
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:37:17-50
 	android:name
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:36:17-67
-provider#com.ds.FoodScanner.DocumentContentProvider
+provider#com.dmsl.FoodScanner.DocumentContentProvider
 ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:41:13-53
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:41:13-55
 	android:exported
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:42:13-37
 	android:name
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:40:13-52
-activity#com.ds.FoodScanner.MainActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:44:9-54:20
+activity#com.dmsl.FoodScanner.MainActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:44:9-53:20
 	android:label
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:46:13-45
 	android:launchMode
@@ -152,127 +152,127 @@ ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:45:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:49:13-53:29
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:49:13-52:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:50:17-69
 	android:name
 		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:52:17-77
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:52:27-74
-activity#com.ds.FoodScanner.OCRActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:57:9-59:46
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.dmsl.FoodScanner.OCRActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:56:9-58:46
 	android:launchMode
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:59:13-43
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:58:13-43
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:58:13-40
-activity#com.ds.documentview.DocumentActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:62:9-70:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:57:13-40
+activity#com.dmsl.documentview.DocumentActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:61:9-69:20
 	android:launchMode
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:65:13-43
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:64:13-43
 	android:windowSoftInputMode
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:66:13-55
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:65:13-55
 	android:configChanges
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:64:13-60
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:63:13-60
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:63:13-64
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:62:13-66
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:67:13-69:67
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:66:13-68:69
 	android:value
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:69:17-64
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:68:17-66
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:68:17-63
-activity#com.ds.FoodScanner.help.HelpActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:73:9-79:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:67:17-63
+activity#com.dmsl.FoodScanner.help.HelpActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:72:9-78:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:75:13-41
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:74:13-41
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:74:13-46
-activity#com.ds.FoodScanner.help.OCRLanguageActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:82:9-88:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:73:13-46
+activity#com.dmsl.FoodScanner.help.OCRLanguageActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:81:9-87:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:84:13-55
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:83:13-55
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:83:13-53
-activity#com.ds.documentview.TableOfContentsActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:91:9-97:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:82:13-53
+activity#com.dmsl.documentview.TableOfContentsActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:90:9-96:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:93:13-46
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:92:13-46
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:92:13-71
-activity#com.ds.install.InstallActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:100:9-103:72
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:91:13-73
+activity#com.dmsl.install.InstallActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:99:9-102:72
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:102:13-46
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:101:13-46
 	android:theme
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:103:13-69
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:102:13-69
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:101:13-58
-activity#com.ds.FoodScanner.cropimage.CropImageActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:106:9-110:60
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:100:13-60
+activity#com.dmsl.FoodScanner.cropimage.CropImageActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:105:9-109:60
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:109:13-47
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:108:13-47
 	android:configChanges
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:108:13-63
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:107:13-63
 	android:uiOptions
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:110:13-57
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:109:13-57
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:107:13-56
-service#com.ds.FoodScanner.help.OCRLanguageInstallService
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:113:9-67
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:106:13-56
+service#com.dmsl.FoodScanner.help.OCRLanguageInstallService
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:112:9-67
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:113:18-64
-receiver#com.ds.FoodScanner.help.DownloadBroadCastReceiver
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:115:9-119:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:112:18-64
+receiver#com.dmsl.FoodScanner.help.DownloadBroadCastReceiver
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:114:9-118:20
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:115:19-65
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:114:19-65
 intent-filter#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:116:13-118:29
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:115:13-117:29
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:117:17-82
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:116:17-82
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:117:25-79
-activity#com.ds.FoodScanner.help.LicenseActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:123:9-129:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:116:25-79
+activity#com.dmsl.FoodScanner.help.LicenseActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:122:9-128:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:125:13-55
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:124:13-55
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:124:13-49
-activity#com.ds.FoodScanner.help.AboutActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:132:9-138:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:123:13-49
+activity#com.dmsl.FoodScanner.help.AboutActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:131:9-137:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:134:13-42
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:133:13-42
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:133:13-47
-activity#com.ds.FoodScanner.BarcodeScanner.FullScannerActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:141:9-149:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:132:13-47
+activity#com.dmsl.FoodScanner.BarcodeScanner.FullScannerActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:140:9-148:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:143:13-44
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:142:13-44
 	android:uiOptions
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:145:13-57
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:144:13-57
 	android:theme
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:144:13-51
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:143:13-51
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:142:13-63
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:141:13-63
 meta-data#android.support.UI_OPTIONS
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:146:13-148:60
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:145:13-147:60
 	android:value
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:148:17-57
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:147:17-57
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:147:17-58
-activity#com.ds.FoodScanner.ResultActivity
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:152:9-157:20
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:146:17-58
+activity#com.dmsl.FoodScanner.ResultActivity
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:151:9-156:20
 	android:label
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:153:13-44
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:152:13-44
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:152:19-49
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:151:19-49
 meta-data#io.fabric.ApiKey
-ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:159:9-161:72
+ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:158:9-160:72
 	android:value
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:161:13-69
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:160:13-69
 	android:name
-		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:160:13-44
+		ADDED from C:\Users\tsets_000\Desktop\foodscanner\app\src\main\AndroidManifest.xml:159:13-44
 service#com.squareup.leakcanary.internal.HeapAnalyzerService
 ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\tsets_000\Desktop\foodscanner\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\AndroidManifest.xml:28:9-31:45
 	android:enabled
